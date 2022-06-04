@@ -1,0 +1,36 @@
+mk dir nome da pasta = cria uma nova pasta no local do terminal
+git init = rodar e vercionar o codigo, cria um repositorio git na pasta
+ls = lista os repositorios
+ls -a= mostra arquivos ocultos na pasta
+cd .. = navega para uma pasta anterior ex: /c/livro/.git = apos comando /c/livro
+git config --global user.email "xfiller93@gmail.com" = setar um email no commit
+git config --global user.name xfillerx = setar user name no commit
+arquivo markdown = uma forma mais humanizada de escrever um arquivo html
+git add * = criando commit / pega tudo da area trabalhada e coloca no staged
+git commit -m "commit inicial" = commita os arquivos, nome do commit mensagem pra entender o commit o que ele e no projeto
+git status = comando que mostra qual estado dos arquivos(untracked modified unmodifiel staged)
+mv nome do arquivo ./receitas/ = comando para mover o arquivo para outro repositorio ex: strogonoff.md ./receitas/
+echo > nome do arquivo = cria um novo arquivo
+git config --list = tras as listas de todas configuraçoes do git
+git config --global --unset user.email = apaga a propriedade escolhida ex:--unset user.nickname
+git config --global user.email = adiciona novamente a propriedade que tinha cido apagada ex: git config --global user.nickname
+git remote -v = listas de repositorios remotos que esse arquivo esta linkado
+git status = verifica se tem pendencias no repositorio
+git push origin master/main = leva o codigo do repositorio local pro remoto
+git pull origin master/main = puxa o commit remoto pro lado local, esse comando e usado por causa de diferenças no commit remoto para o commit local seja outro usuario que alterou os conteudos 
+git clone mais o link do codigo = clona um repositorio escolhido
+Quando você tenta empurrar (push) o código para o GitHub e o seu commit não representa o estado mais atual do repositório o git irá: pedir para fazer um pull e depois um push
+O que acontece quando você gera commits no seu repositório local com email e nickname diferentes dos utilizados no GitHub? eles aparecem com email e nick diferentes
+O que é um sistema distribuído? um sistema que possui copias de si memso em diferentes locais
+O que o comand git clone faz? faz um clone do repositorio remoto em seu repositorio local
+Qual o comando usado para inicializar o GIT dentro de uma pasta? git init
+O que o GIT é? um sistema de versionamento de codigo distribuido
+
+
+ 
+
+
+     
+
+
+   

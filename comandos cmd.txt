@@ -1,0 +1,11 @@
+dir = situar nois onde estamos, lista as pastas,lista o conteudo naquele diretorio especifico
+cd = navegar entre as pastas 
+cd / = base do diretorio 
+cd nome da pasta desejada = entra na pasta digitada
+cd .. = retrocede pra pasta anterior 
+cls = limpa terminal windows
+tecla TAB = compreta pastas antes de serem digitadas
+mkdir nome da pasta = criar pastas no diretorio escolhido
+echo = printa na tela mensagem digitada
+rmdir nome da pasta /S /Q = apaga a pasta 
+ 

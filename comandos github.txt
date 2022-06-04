@@ -1,0 +1,6 @@
+git remote add origin link do github = empura a versao do repositorio local para a area da nuvem no git hub
+git remote -v = mostra  a lista de repositorios remotos cadrastrados
+git push origin master = empurra  o repositorio pro lado remoto
+git add . = atualiza os arquivos pra preparar para commitar
+
+

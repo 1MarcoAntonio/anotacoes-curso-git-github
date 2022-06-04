@@ -1,0 +1,4 @@
+spenssl sha1 nome do arquivo = gera um conjunto de 40 caracteres, uma chave encriptografada
+git clone mais o ssh do arquivo = clona o codigo do outro
+ls = lista os repositorios
+
